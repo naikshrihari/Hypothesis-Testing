@@ -18,3 +18,10 @@ The Independent Samples t Test or 2-sample t-test compares the means of two inde
 The test is applied when you have two categorical variables from a single population. It is used to determine whether there is a significant association between the two variables.
 
 
+## Anova Test (F-test)
+The t-test works well when dealing with two groups, but sometimes we want to compare more than two groups at the same time.
+
+For example, if we wanted to test whether petal_width age differs based on some categorical variable like species, we have to compare the means of each level or group the variable
+
+
+
