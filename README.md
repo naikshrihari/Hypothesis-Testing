@@ -23,6 +23,8 @@ The t-test works well when dealing with two groups, but sometimes we want to com
 
 For example, if we wanted to test whether petal_width age differs based on some categorical variable like species, we have to compare the means of each level or group the variable.
 
+species : ['setosa', 'versicolor', 'virginica']
+
 ## Correlation
 The statistical relationship between two variables is referred to as their correlation.
 
